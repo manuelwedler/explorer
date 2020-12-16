@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.8
 
 LABEL Name=backend Version=0.0.1 Author="Paul Lange"
 EXPOSE 4567
